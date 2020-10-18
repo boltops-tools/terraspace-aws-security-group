@@ -1,0 +1,2 @@
+stack_options(purge: true)
+mod "security-group", source: "terraform-aws-modules/security-group/aws", stacks: :all

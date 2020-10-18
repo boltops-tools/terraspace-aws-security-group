@@ -1,0 +1,7 @@
+---
+security-group:
+  source: terraform-aws-modules/security-group/aws
+  stacks: :all
+  type: registry
+  url: https://github.com/terraform-aws-modules/terraform-aws-security-group
+  sha: b6362f88d065457a6f224e99ceec5f58bce6754b
